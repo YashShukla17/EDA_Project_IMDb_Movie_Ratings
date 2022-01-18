@@ -1,4 +1,5 @@
 # EDA_Project_IMDb_Movie_Ratings
-EDA stands for Exploratory Data Analaysis. It is aporcess of Preparing data and finding the useful insights out of the data for further analysis process. 
-In this Assingment I have Performed EDA on Movies dataset, containing top 100 rated movies data. 
-Goal of this assingment is to organize and filter data along with removing all the errors and finding relationship between data to get useful insight out of this dataset.
+EDA stands for Exploratory Data Analysis.
+It is an approach to summarize data statically and get useful insights out of the data. 
+In this Assignment I have Performed EDA on the Movies dataset, containing the top 100 rated movies data. 
+The goal of this assignment is to organize and filter data along with removing all the errors and finding the relationship between data to get useful insight out of this dataset.
